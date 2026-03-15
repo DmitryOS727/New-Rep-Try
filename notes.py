@@ -1,7 +1,7 @@
 from validation import normalize_tag
 
 
-# Цей описує одну нотатку
+# Цей 
 class Note:
     def __init__(self, note_id: int, text: str, tags=None):
         self.note_id = note_id
